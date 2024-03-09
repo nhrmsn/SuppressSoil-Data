@@ -1,4 +1,4 @@
-time,treatment,death,biological_replicate
+time,treatment,death,experimental_run
 2,C112,1,1
 4,C112,1,1
 4,C112,1,1
