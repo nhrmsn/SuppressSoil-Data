@@ -1,4 +1,4 @@
-Soil,Sample_Type,Treatment,Biological_Replicate,Technical_Replicate,Phytohormone,Concentration_ng_g
+Soil,Sample_Type,Treatment,Experimental_Run,Replicate,Phytohormone,Concentration_ng_g
 C10,Root,Control,2,8,SA,39.14285714
 C10,Root,Control,2,9,SA,32.73076923
 C10,Root,Control,2,10,SA,30.5
