@@ -1,4 +1,4 @@
-id,Soil,Sample_Type,Treatment,Biological_Replicate,Technical_Replicate,Benzoxazinoid,Concentration_mg_g
+id,Soil,Sample_Type,Treatment,Experimental_Run,Replicate,Benzoxazinoid,Concentration_mg_g
 T19,S16,Root,Control,1,8,DIBOA_Glc,0.0528
 T20,S16,Root,Control,1,9,DIBOA_Glc,0.011592593
 T21,S16,Root,Control,1,10,DIBOA_Glc,0.03632
